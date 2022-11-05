@@ -12,13 +12,9 @@ A quick image sorter with option to take input of labelled data, It can even sea
 The Program is completely GUI based so no problem should be faced with the usage.
 Just Downlaod the master folder and run GUI.py after running PreReq.sh script using the following command
 
-### For Linux/mac users
 ```
 sh PreReq.sh
 ```
-
-### For windows users
-
 
 ## Known issues
 * Slow
