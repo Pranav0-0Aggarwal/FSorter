@@ -13,11 +13,11 @@ Just Downlaod the master folder and run GUI.py after running PreReq.sh script us
 
 
 ## Known issues
-*Slow
-*GUI Freezes after clicking next
+* Slow
+* GUI Freezes after clicking next
 
 ## Credits
-ageitguy for face_recognition module
+[ageitguy](https://github.com/ageitgey/face_recognition) for face_recognition module
 
 
 ## Issues because of face_recognition library
