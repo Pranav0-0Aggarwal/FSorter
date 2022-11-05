@@ -33,9 +33,9 @@ Copied from [**Caveats**](https://github.com/ageitgey/face_recognition/blob/mast
   up children quite easy using the default comparison threshold of 0.6.
 * Accuracy may vary between ethnic groups. Please see [this wiki page](https://github.com/ageitgey/face_recognition/wiki/Face-Recognition-Accuracy-Problems#question-face-recognition-works-well-with-european-individuals-but-overall-accuracy-is-lower-with-asian-individuals) for more details.
 
-## Special Thanks
-[Greatwhitehat](https://github.com/greatwhitehat/faceoff) for his faceoff sorter for a basic idea
-
 ## Future plans
 * Option to add custom user based tolerance input
 * Adding option for multi threading to remove the GUI freezing problem
+
+### Special Thanks
+[Greatwhitehat](https://github.com/greatwhitehat/faceoff) for his faceoff sorter for a basic idea
