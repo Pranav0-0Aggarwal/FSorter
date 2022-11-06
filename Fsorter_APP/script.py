@@ -103,7 +103,7 @@ class Img:
             if len(face_encodings) == 0 :
                 if not os.path.exists(os.path.join(self.target, 'no_face_found')):
                     os.mkdir(os.path.join(self.target, 'no_face_found'))
-                    shutil.copyfile(file, os.path.join(self.target, 'no_face_found', os.path.basename(file)))
+                shutil.copyfile(file, os.path.join(self.target, 'no_face_found', os.path.basename(file)))
             elif conditiong:
                 for i in range(0,len(face_encodings)):
                     condition=False
