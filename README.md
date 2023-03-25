@@ -34,6 +34,3 @@ Reference [**Caveats**](https://github.com/ageitgey/face_recognition/blob/master
 ## Future plans
 * Option to add custom user based tolerance input
 * Adding option for multi threading to remove the GUI freezing problem
-
-### Special Thanks
-[Greatwhitehat](https://github.com/greatwhitehat/faceoff) for his faceoff sorter for a basic idea
