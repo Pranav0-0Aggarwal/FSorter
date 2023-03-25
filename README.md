@@ -25,7 +25,7 @@ sh PreReq.sh
 
 
 ## Issues because of face_recognition library
-Copied from [**Caveats**](https://github.com/ageitgey/face_recognition/blob/master/README.md)
+Reference [**Caveats**](https://github.com/ageitgey/face_recognition/blob/master/README.md)
 
 * The face recognition model is trained on adults and does not work very well on children. It tends to mix
   up children quite easy using the default comparison threshold of 0.6.
